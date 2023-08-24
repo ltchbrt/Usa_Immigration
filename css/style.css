@@ -9265,7 +9265,7 @@ button.bg-dark:focus {
 
 .text-primary {
   padding-top: 6rem;
-  color: black !important;
+  color: white !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9915,7 +9915,11 @@ li {
 }
 
 #temporary{
-  padding-top: 5rem;
+  padding-top: 9rem;
+}
+
+#process{
+  padding-top: 9rem;
 }
 
 @media (max-width: 992px) {
