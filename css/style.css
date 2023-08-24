@@ -10032,6 +10032,19 @@ li {
     margin-bottom: 0;
 }
 
+.row1{
+  width: 100% !important;
+}
+
+.h_header{
+  color: white;
+  text-shadow: 5px 1px 6px black;
+  font-size: 32px !important;
+  height: 179px;
+}
+
+
+
 textarea {
   height: 5em !important;
   width: 13em !important;
@@ -10049,7 +10062,6 @@ textarea {
 }
 
 .h_header{
-  text-align: center;
   color: white;
   text-shadow: 5px 1px 6px black;
   font-size: 43px;
@@ -10060,6 +10072,10 @@ textarea {
   text-align: center;
   font-style: italic;
   font-size: 10px;     color: white;
+}
+
+.row1{
+  width: 43%;
 }
 
 
